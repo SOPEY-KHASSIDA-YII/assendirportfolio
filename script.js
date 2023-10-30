@@ -182,12 +182,4 @@ function graph() {
 }
 gra.onclick = graph;
 
-// ///////////////////////////////////////////////////////////////////////:
-
-// var frmvalidator = new frmvalidator("contact_form");
-// frmvalidator.addValidation("name", "req", "Please provide your name");
-// frmvalidator.addValidation("email", "req", "Please provide your email");
-// frmvalidator.addValidation("email", "email", "Please enter a valid email address");
-// frmvalidator.addValidation("adresse", "req", "Please enter a valid addresse");
-// frmvalidator.addValidation("number", "req", "Please enter a valid number");
 
