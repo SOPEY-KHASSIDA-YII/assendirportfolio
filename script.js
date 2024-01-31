@@ -183,3 +183,10 @@ function graph() {
 gra.onclick = graph;
 
 
+
+
+
+// document.getElementById('send').addEventListener('click', function () {
+//     // Envoie un message à l'onglet récepteur
+//     window.opener.innerHTML=('Message has been sent successfully!');
+// });

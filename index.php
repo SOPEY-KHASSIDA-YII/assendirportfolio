@@ -1,3 +1,7 @@
+<?php
+include_once('connect.php')
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,6 +18,7 @@
 <body>
     <!-- header site -->
     <header>
+        
         <div class="logo"><span>A</span>sse.</div>
         <ul class="navlist">
             <li><a href="#" style="--i:1;">Home</a></li>
@@ -29,7 +34,9 @@
 
     <!-- home section ------------------------------------------------------------------------>
     <section class="home" id="home">
+        
         <div class="home-content scroll-scale">
+
             <h1>Hi I'm Asse Ndir</h1>
             <div class="change-text">
                 <h3>And I'm</h3>
@@ -57,17 +64,15 @@
             </div>
 
             <div class="btn-box">
-                <a href="./divers/mon cv 3.pdf" class="btn" target="_blank">Download CV</a>
+                <a href="./divers/CV 5.pdf" class="btn" target="_blank">Download CV</a>
                 <a href="#" class="btn">Hire me now!</a>
             </div>
 
             <div class="social-icons">
-                <a href="https://www.facebook.com/asse.ndir/" target="_blank" class="fac"><i
-                        class='bx bxl-facebook'></i></a>
+                <a href="https://www.facebook.com/asse.ndir/" target="_blank" class="fac"><i class='bx bxl-facebook'></i></a>
                 <a href="https://github.com/SOPEY-KHASSIDA-YII" target="_blank"><i class='bx bxl-github'></i></a>
                 <a href="https://wa.me/771223886" target="_blank"><i class='bx bxl-whatsapp'></i></a>
-                <a href="https://www.linkedin.com/in/asse-gu%C3%A9d%C3%A9-ndir-5b4a4327a/" target="_blank"><i
-                        class='bx bxl-linkedin'></i></a>
+                <a href="https://www.linkedin.com/in/asse-gu%C3%A9d%C3%A9-ndir-5b4a4327a/" target="_blank"><i class='bx bxl-linkedin'></i></a>
             </div>
 
         </div>
@@ -78,8 +83,7 @@
             </div>
 
             <div class="liquid-shape">
-                <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                    width="100%" id="blobSvg">
+                <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
                     <path fill="#12f7ff">
                         <animate attributeName="d" dur="20000ms" repeatCount="indefinite" values="M461,302.5Q431,355,390,388Q349,421,299.5,438Q250,455,191.5,454Q133,453,108.5,399.5Q84,346,88,298Q92,250,89.5,203Q87,156,120,119Q153,82,201.5,88.5Q250,95,295,94.5Q340,94,396.5,113.5Q453,133,472,191.5Q491,250,461,302.5Z;
                             M426,305.5Q443,361,390.5,382Q338,403,294,437Q250,471,198.5,450Q147,429,128,380Q109,331,104,290.5Q99,250,93,203Q87,156,110.5,102.5Q134,49,192,62.5Q250,76,295,85Q340,94,388,118.5Q436,143,422.5,196.5Q409,250,426,305.5Z;
@@ -100,8 +104,7 @@
             </div>
 
             <div class="liquid-shape">
-                <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                    width="100%" id="blobSvg">
+                <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
                     <path fill="#12f7ff">
                         <animate attributeName="d" dur="20000ms" repeatCount="indefinite" values="M461,302.5Q431,355,390,388Q349,421,299.5,438Q250,455,191.5,454Q133,453,108.5,399.5Q84,346,88,298Q92,250,89.5,203Q87,156,120,119Q153,82,201.5,88.5Q250,95,295,94.5Q340,94,396.5,113.5Q453,133,472,191.5Q491,250,461,302.5Z;
                             M426,305.5Q443,361,390.5,382Q338,403,294,437Q250,471,198.5,450Q147,429,128,380Q109,331,104,290.5Q99,250,93,203Q87,156,110.5,102.5Q134,49,192,62.5Q250,76,295,85Q340,94,388,118.5Q436,143,422.5,196.5Q409,250,426,305.5Z;
@@ -155,7 +158,7 @@
 
             </p>
             <p id="d1">
-                n’hésitez donc pas à me contacter depuis whatsapp ou le formulaire de contact en bas de page!
+                n’hésitez donc pas à me contacter depuis whatsapp ou le formulaire de contact en bas de page! <br>
                 <u style="text-decoration: underline ;">Residence</u> : Sénégal <br>
                 <u style="text-decoration: underline ;">Adresse</u> : Hlm grand yoff, Dakar <br>
                 <u style="text-decoration: underline ;">Free-lance</u> : Disponible <br>
@@ -341,8 +344,7 @@
                 <div class="port-content">
                     <h3>Site de portfolio</h3>
                     <br>
-                    <a href="https://github.com/SOPEY-KHASSIDA-YII/p/tree/dc06a3de7792d5efaae92bac4e558b3c755dc0ee/Mon%20portfolio"
-                        target="_blank"><i class='bx bx-link-external'></i></a>
+                    <a href="https://github.com/SOPEY-KHASSIDA-YII/p/tree/dc06a3de7792d5efaae92bac4e558b3c755dc0ee/Mon%20portfolio" target="_blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -353,8 +355,7 @@
                 <div class="port-content">
                     <h3>Salle de sport</h3>
                     <br>
-                    <a href="https://github.com/SOPEY-KHASSIDA-YII/site-web-salle-de-sport.git" target="_blank"><i
-                            class='bx bx-link-external'></i></a>
+                    <a href="https://github.com/SOPEY-KHASSIDA-YII/site-web-salle-de-sport.git" target="_blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -365,8 +366,7 @@
                 <div class="port-content">
                     <h3>Convertisseur de devise</h3>
                     <br>
-                    <a href="https://github.com/SOPEY-KHASSIDA-YII/convertisseur-de-devise" target="_blank"><i
-                            class='bx bx-link-external'></i></a>
+                    <a href="https://github.com/SOPEY-KHASSIDA-YII/convertisseur-de-devise" target="_blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -399,8 +399,7 @@
                 <div class="port-content">
                     <h3>Game store</h3>
                     <br>
-                    <a href="https://github.com/SOPEY-KHASSIDA-YII/Game-store.git" target="_blank"><i
-                            class='bx bx-link-external'></i></a>
+                    <a href="https://github.com/SOPEY-KHASSIDA-YII/Game-store.git" target="_blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -414,7 +413,8 @@
             <span>Ask me question</span>
             <h2>Contact</h2>
         </div>
-        <form method="POST" action="php/form.php" class="scroll-bottom">
+        <div class="alert green"></div>
+        <form method="POST" action="mail.php" class="scroll-bottom ">
             <input type="text" class="" name="subject" id="input" placeholder="subject" required>
             <input type="text" name="nom" id="input" placeholder="Your Name" required>
             <input type="text" name="email" id="input" placeholder="Your Email" required>
@@ -422,8 +422,8 @@
             <input type="number" name="number" id="" placeholder="Phone Number" required>
             <textarea name="message" id="" cols="30" rows="10" placeholder="Your Message" required></textarea>
             <div class="btn-box formBtn">
-                <button type="submit" value="submit" class="btn">Send message</button>
-                <!-- <input type="submit" name="submit" value="Submit"> -->
+                <button type="submit" value="submit" class="btn" id="send">Send message</button>
+
             </div>
         </form>
     </section>
