@@ -18,7 +18,7 @@ include_once('connect.php')
 <body>
     <!-- header site -->
     <header>
-        
+
         <div class="logo"><span>A</span>sse.</div>
         <ul class="navlist">
             <li><a href="#" style="--i:1;">Home</a></li>
@@ -34,7 +34,7 @@ include_once('connect.php')
 
     <!-- home section ------------------------------------------------------------------------>
     <section class="home" id="home">
-        
+
         <div class="home-content scroll-scale">
 
             <h1>Hi I'm Asse Ndir</h1>
@@ -375,9 +375,9 @@ include_once('connect.php')
                     <img src="./assets/portrait2.jpg" alt="">
                 </div>
                 <div class="port-content">
-                    <h3>Graphic Designer</h3>
+                    <h3>Site couturier</h3>
                     <br>
-                    <a href="#"><i class='bx bx-link-external'></i></a>
+                    <a href="https://github.com/SOPEY-KHASSIDA-YII/projet_TNC_couture-Django"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
