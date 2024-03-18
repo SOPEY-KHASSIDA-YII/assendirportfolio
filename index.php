@@ -151,7 +151,7 @@ include_once('connect.php')
             <h2>About me</h2>
             <h3>A story of good</h3>
             <p>
-                Actuellement Etudiant en Génie logiciel licence 2 à HEMI, je suis à la recherche d'un Stage ou
+                Actuellement Etudiant en licence 3 Génie logiciel à HEMI, je suis à la recherche d'un Stage ou
                 Alternace dans le développement Web.Très créatif, j’aime mettre mes compétences au service d’une cause
                 qui me tient à cœur.
                 Je souhaite continuer à me perfectionner dans ce secteur qui me passionne.
@@ -198,7 +198,7 @@ include_once('connect.php')
 
             <div class="service-box">
                 <i class='bx bx-desktop service-icon'></i>
-                <h3>Graphic designer</h3>
+                <h3>Graphic designer .......</h3>
                 <br>
 
 
@@ -224,8 +224,8 @@ include_once('connect.php')
                 <h3>Technical Skills</h3>
                 <div class="skill-bar">
                     <div class="info">
-                        <p>HTML</p>
-                        <p>93%</p>
+                        <p>HTML CSS</p>
+                        <p>Certified</p>
                     </div>
                     <div class="bar">
                         <span class="html"></span>
@@ -236,21 +236,31 @@ include_once('connect.php')
                 <div class="skill-bar">
                     <div class="info">
                         <p>Javascript</p>
-                        <p>70%</p>
+                        <p>Certified</p>
                     </div>
                     <div class="bar">
                         <span class="javascript"></span>
                     </div>
 
                 </div>
+                <div class="skill-bar">
+                    <div class="info">
+                        <p>Php</p>
+                        <p>Certified</p>
+                    </div>
+                    <div class="bar">
+                        <span class="php"></span>
+                    </div>
+
+                </div>
 
                 <div class="skill-bar">
                     <div class="info">
-                        <p>Css</p>
-                        <p>80%</p>
+                        <p>Django</p>
+                        <p>Certified</p>
                     </div>
                     <div class="bar">
-                        <span class="css"></span>
+                        <span class="django"></span>
                     </div>
 
                 </div>
@@ -258,7 +268,6 @@ include_once('connect.php')
                 <div class="skill-bar">
                     <div class="info">
                         <p>Language C</p>
-                        <p>42%</p>
                     </div>
                     <div class="bar">
                         <span class="language_c"></span>
@@ -269,10 +278,29 @@ include_once('connect.php')
                 <div class="skill-bar">
                     <div class="info">
                         <p>Flutter</p>
-                        <p>62%</p>
                     </div>
                     <div class="bar">
                         <span class="flutter"></span>
+                    </div>
+
+                </div>
+                <div class="skill-bar">
+                    <div class="info">
+                        <p>Python</p>
+                        <p>Certified</p>
+                    </div>
+                    <div class="bar">
+                        <span class="python"></span>
+                    </div>
+
+                </div>
+                <div class="skill-bar">
+                    <div class="info">
+                        <p>SQL</p>
+                        <p>Certified</p>
+                    </div>
+                    <div class="bar">
+                        <span class="sql"></span>
                     </div>
 
                 </div>
@@ -299,9 +327,9 @@ include_once('connect.php')
                     </div>
 
                     <div class="box">
-                        <div class="circle" data-dots="80" data-percent="70"></div>
+                        <div class="circle" data-dots="80" data-percent="75"></div>
                         <div class="text">
-                            <big>70%</big>
+                            <big>75%</big>
                             <small>Communication</small>
                         </div>
                     </div>
@@ -375,9 +403,9 @@ include_once('connect.php')
                     <img src="./assets/portrait2.jpg" alt="">
                 </div>
                 <div class="port-content">
-                    <h3>Site couturier</h3>
+                    <h3>Graphic Designer</h3>
                     <br>
-                    <a href="https://github.com/SOPEY-KHASSIDA-YII/projet_TNC_couture-Django"><i class='bx bx-link-external'></i></a>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
